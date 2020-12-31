@@ -1,0 +1,3 @@
+include ':browse-track'
+include ':app'
+rootProject.name = "BrowseTrack"
